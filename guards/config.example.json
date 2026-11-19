@@ -1,0 +1,5 @@
+{
+  "runtimeDirs": ["/srv/runtime"],
+  "prodPatterns": ["prod(uction)?\\.example\\.com", "DATABASE_URL_PROD"],
+  "allowHeadlessClaude": false
+}
